@@ -1,5 +1,8 @@
 _repo: Reflections-on-the-Music-Life-in-the-United-States_67239
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67239-h/images/cover.jpg
 creator:
   author:
     agent_name: Sessions, Roger
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54031
     wikipedia: https://en.wikipedia.org/wiki/Roger_Sessions
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67239#Reflections-on-the-Music-Life-in-the-United-States
 gutenberg_issued: '2022-01-24'
 identifiers:
   gutenberg: '67239'
